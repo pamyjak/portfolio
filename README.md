@@ -1,6 +1,6 @@
 [SnakeGameGif]: https://github.com/pamyjak/portfolio/blob/main/src/assets/SnakeGame.gif "Snake Game Gif"
 
-# Project Portfolio
+# Projects Portfolio
 *This repository serves as a living portfolio of my projects*
 
 - [My Journey](#my-journey)
