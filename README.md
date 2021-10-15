@@ -1,4 +1,4 @@
-# My Projects Portfolio
+# Project Portfolio
 *This repository serves as a living portfolio of my projects*
 
 ## **My Journey:**
