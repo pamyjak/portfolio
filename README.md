@@ -2,7 +2,7 @@
 *This repository serves as a living portfolio of my projects*
 
 - [My Journey](#my-journey)
-- [Snake Game](#snake-game)
+- [Snake Game](#snake-game:-(may-2016))
 
 ## **My Journey:**
 - While I was exposed to programming sometime in 2012, my journey didn’t really take off until around 2015. This was when I started learning ```C++``` at my state college, and ```Java``` through my high school FIRST Robotics Team. I really enjoyed all the programming I was doing, and I didn’t want to stop!
