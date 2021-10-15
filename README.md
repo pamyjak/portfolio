@@ -28,12 +28,10 @@
 
 - I learned very quickly how JavaScript differed from the ```C++``` and ```Java``` that I was familiar with, beyond just the syntax differences. Dynamic typing and just-in-time compilation were confusing at first given my background thus far, but the more I learned of the differenced behind the scenes the better my projects got.
 
+***Snake Game Demo:***
 ![alt text][SnakeGameGif]
 
-
-
-
-*Currently updating: Once this comment is removes, the portfoliio will be most up-to-date*
+*Currently updating: Once this comment is removed, the portfolio will be most up-to-date*
 
 
 
