@@ -1,4 +1,4 @@
-[SnakeGameGif]: (https://github.com/pamyjak/portfolio/blob/main/src/assets/SnakeGame.gif)
+[SnakeGameGif]: https://github.com/pamyjak/portfolio/blob/main/src/assets/SnakeGame.gif "Snake Game Gif"
 
 # Project Portfolio
 *This repository serves as a living portfolio of my projects*
