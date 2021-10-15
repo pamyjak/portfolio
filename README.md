@@ -1,7 +1,7 @@
-# My Portfolio
-*This repository serves as a living portfolio of my projects*
+#My Projects Portfolio
+##*This repository serves as a living portfolio of my projects*
 
-**SnakeGame**
+##**SnakeGame**
 
 The Snake Game:  <img src="https://github.com/pamyjak/portfolio/blob/main/src/assets/SnakeGame.gif" width="40" height="40" />
 
