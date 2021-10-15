@@ -2,7 +2,7 @@
 *This repository serves as a living portfolio of my projects*
 
 - [My Journey](#my-journey)
-- [Snake Game](#snake-game-may-2016)
+- [Snake Game](#snake-game)
 
 ## **My Journey:**
 - While I was exposed to programming sometime in 2012, my journey didn’t really take off until around 2015. This was when I started learning ```C++``` at my state college, and ```Java``` through my high school FIRST Robotics Team. I really enjoyed all the programming I was doing, and I didn’t want to stop!
@@ -19,14 +19,16 @@
 
 
 ## **Snake Game**
-***May 2016***   <img src="https://github.com/pamyjak/portfolio/blob/main/src/assets/SnakeGame.gif" width="64" height="36" />
+***May 2016***
 - This is my recreation of the infamous Snake Game, as well as one of my first finished projects using JavaScript
 
 - I developed this game over a weekend in May 2016 in hopes to build my skills in JavaScript, as well as begin my journey in Game Development
 
 - I learned very quickly how JavaScript differed from the C++ and Java that I was familiar with, beyond just the syntax differences. Dynamic typing and just-in-time compilation were confusing at first given my background thus far, but the more I learned of the differenced behind the scenes the better my projects got
 
+<img src="https://github.com/pamyjak/portfolio/blob/main/src/assets/SnakeGame.gif" width="64" height="36" />
 ![alt text](https://github.com/pamyjak/portfolio/blob/main/src/assets/SnakeGame.gif)
+
 
 
 
