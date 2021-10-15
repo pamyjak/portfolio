@@ -1,7 +1,7 @@
 # Project Portfolio
 *This repository serves as a living portfolio of my projects*
 
-[### My Journey](#my-journey)
+### [My Journey](#my-journey)
 ### [Snake Game](#snake-game)
 
 ## **My Journey:**
