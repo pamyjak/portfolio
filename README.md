@@ -3,9 +3,10 @@
 
 **SnakeGame**
 
-The Snake Game:
-![alt text][SnakeGame]
-<img src="https://github.com/pamyjak/portfolio/blob/main/src/assets/SnakeGame.gif" width="40" height="40" />
+The Snake Game:  <img src="https://github.com/pamyjak/portfolio/blob/main/src/assets/SnakeGame.gif" width="40" height="40" />
+
+Big Snek:
+![alt text](https://github.com/pamyjak/portfolio/blob/main/src/assets/SnakeGame.gif)
 
 
 
@@ -27,7 +28,3 @@ The Snake Game:
 
 
 
-
-
-// Resource Links
-[SnakeGame](https://github.com/pamyjak/portfolio/blob/main/src/assets/SnakeGame.gif)
