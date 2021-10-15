@@ -11,7 +11,7 @@
 
 - I started teaching myself ```JavaScript``` in 2016, and to my surprise it was nothing like Java! I enjoyed the challenge of learning a new language, and this is when my passion for Game Development began. I started off by re-creating some well-know and simple games, but eventually would find myself designing games from scratch too *~~(not the language)~~*. 
 
-- In 2017, I participated in programing competitions offered at my state college (```C++```), and this is when I realized something: I ***love*** solving problems! The process of getting a bunch of mini-problems to solve in a small amount of time really resonated with me, and firmly solidified where I want my career to be.
+- In 2017, I participated in programing competitions offered at my state college using ```C++```, and this is when I realized something: I ***love*** solving problems! The process of getting a bunch of mini-problems to solve in a small amount of time really resonated with me, and firmly solidified where I want my career to be.
 
 - During Summer 2019, I started to push my Game Dev skills. I decided to code plugins for Minecraft Java, to no one’s surprise using ```Java```. This was not like my past experiences with ```Java``` though, now I was working with ```Maven``` and other recourses to package my work together. Furthermore, I was using the ```Spigot API```, and this was my first experience reading large amounts of technical documentation.
 
