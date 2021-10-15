@@ -1,13 +1,14 @@
 [SnakeGameGif]: https://github.com/pamyjak/portfolio/blob/main/src/assets/SnakeGame.gif "Snake Game Gif"
 
 # Projects Portfolio
-*This repository serves as a living portfolio of my projects*
+*This repository serves as a living portfolio of my projects. You can use the links below to navigate between sections.*
 
-- [My Journey](#my-journey)
-- [Snake Game](#snake-game)
+- [My Journey: About Me](#my-journey)
+- [Snake Game (May 2016)](#snake-game)
 
 ## **My Journey:**
-- While I was exposed to programming sometime in 2012, my journey didn’t really take off until around 2015. This was when I started learning ```C++``` at my state college, and ```Java``` through my high school FIRST Robotics Team. I really enjoyed all the programming I was doing, and I didn’t want to stop!
+***About Me***
+- While I was exposed to programming sometime in 2012, my journey didn’t really take off until around 2015. This was when I started learning ```Java``` through my high school FIRST Robotics Team, and later ```C++``` at my state college. I really enjoyed all the programming I was doing, and I didn’t want to stop!
 
 - I started teaching myself ```JavaScript``` in 2016, and to my surprise it was nothing like Java! I enjoyed the challenge of learning a new language, and this is when my passion for Game Development began. I started off by re-creating some well-known and simple games, but eventually would find myself designing games from scratch too *~~(not the language)~~*. 
 
