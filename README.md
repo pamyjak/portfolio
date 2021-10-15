@@ -9,7 +9,7 @@
 ## **My Journey:**
 - While I was exposed to programming sometime in 2012, my journey didn’t really take off until around 2015. This was when I started learning ```C++``` at my state college, and ```Java``` through my high school FIRST Robotics Team. I really enjoyed all the programming I was doing, and I didn’t want to stop!
 
-- I started teaching myself ```JavaScript``` in 2016, and to my surprise it was nothing like Java! I enjoyed the challenge of learning a new language, and this is when my passion for Game Development began. I started off by re-creating some well-know and simple games, but eventually would find myself designing games from scratch too *~~(not the language)~~*. 
+- I started teaching myself ```JavaScript``` in 2016, and to my surprise it was nothing like Java! I enjoyed the challenge of learning a new language, and this is when my passion for Game Development began. I started off by re-creating some well-known and simple games, but eventually would find myself designing games from scratch too *~~(not the language)~~*. 
 
 - In 2017, I participated in programing competitions offered at my state college using ```C++```, and this is when I realized something: I ***love*** solving problems! The process of getting a bunch of mini-problems to solve in a small amount of time really resonated with me, and firmly solidified where I want my career to be.
 
