@@ -4,4 +4,4 @@
 **SnakeGame**
 
 The Snake Game: 
-![alt text](https://github.com/portfolio/main/src/assets/SnakeGame.gif)
+![alt text](https://github.com/pamyjak/portfolio/blob/main/src/assets/SnakeGame.gif)
