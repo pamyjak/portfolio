@@ -1,11 +1,18 @@
+<!-- ==================== Resource Links ==================== -->
 [SnakeGameGif]: https://github.com/pamyjak/portfolio/blob/main/src/assets/SnakeGame.gif "Snake Game Gif"
+[2048Gif]: https://github.com/pamyjak/portfolio/blob/main/src/assets/2048.gif "2048 Gif"
+[SmartClockGif]: https://github.com/pamyjak/portfolio/blob/main/src/assets/RingClock.gif "Smart Clock Gif"
+[DungeonMasterGif]: https://github.com/pamyjak/portfolio/blob/main/src/assets/DungeonMaster.gif "Dungeon Master Gif"
 
+<!-- ==================== Headder ==================== -->
 # Projects Portfolio
 *This repository serves as a living portfolio of my projects. You can use the links below to navigate between sections.*
 
 - [My Journey: About Me](#my-journey)
 - [Snake Game (May 2016)](#snake-game)
+- [2048 Game (June 2016)](#2048)
 
+<!-- ==================== My Journey ==================== -->
 ## **My Journey:**
 ***About Me***
 - While I was exposed to programming sometime in 2012, my journey didn’t really take off until around 2015. This was when I started learning ```Java``` through my high school FIRST Robotics Team, and later ```C++``` at my state college. I really enjoyed all the programming I was doing, and I didn’t want to stop!
@@ -20,7 +27,7 @@
 
 - Once 2020 I started exploring Game Development on the side, and began working with ```C#``` in ```Unity```; eventually switching to ```Godot```. This was when I decided to start developing my own games, as opposed creating clones or modifications to already existing games. While I have not produced a finished game yet *~~(Because my starting project was quite a bit ambitious)~~*, I have learned much about the ```Godot``` game engine and ```C#```. 
 
-
+<!-- ==================== Snake Game ==================== -->
 ## **Snake Game:**
 ***May 2016***
 - This is my recreation of the infamous Snake Game, as well as one of my first finished projects using ```JavaScript```.
@@ -32,24 +39,29 @@
 ***Snake Game Demo:***
 ![alt text][SnakeGameGif]
 
+<!-- ==================== 2048 Game ==================== -->
+## **2048:**
+***June 2016***
+- Text
+
+***Demo:***
+![alt text][2048Gif]
+
+<!-- ==================== Smart Clock ==================== -->
+## **Smart Clock:**
+***July 2016***
+- Text
+
+***Demo:***
+![alt text][SmartClockGif]
+
+<!-- ==================== Dungeon Master ==================== -->
+## **Dungeon Master:**
+***January 2020***
+- Text
+
+***Demo:***
+![alt text][DungeonMasterGif]
+
 *Currently updating: Once this comment is removed, the portfolio will be most up-to-date*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
