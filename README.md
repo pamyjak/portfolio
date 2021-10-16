@@ -11,7 +11,9 @@
 - [My Journey: About Me](#my-journey)
 - [Snake Game (May 2016)](#snake-game)
 - [2048 Game (June 2016)](#2048)
-
+- [Smart Clock (June 2016)](#smart-clock)
+- [Dungeon Master (January 2020)](#dungeon-master)
+- 
 <!-- ==================== My Journey ==================== -->
 ## **My Journey:**
 ***About Me***
@@ -44,7 +46,8 @@
 ***June 2016***
 - Text
 
-***Demo:***
+***2048 Demo:***
+
 ![alt text][2048Gif]
 
 <!-- ==================== Smart Clock ==================== -->
@@ -52,7 +55,8 @@
 ***July 2016***
 - Text
 
-***Demo:***
+***Smart Clock Demo:***
+
 ![alt text][SmartClockGif]
 
 <!-- ==================== Dungeon Master ==================== -->
@@ -60,7 +64,8 @@
 ***January 2020***
 - Text
 
-***Demo:***
+***Dungeon Master Demo:***
+
 ![alt text][DungeonMasterGif]
 
 *Currently updating: Once this comment is removed, the portfolio will be most up-to-date*
