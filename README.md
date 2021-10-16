@@ -13,7 +13,7 @@
 - [2048 Game (June 2016)](#2048)
 - [Smart Clock (June 2016)](#smart-clock)
 - [Dungeon Master (January 2020)](#dungeon-master)
-- 
+
 <!-- ==================== My Journey ==================== -->
 ## **My Journey:**
 ***About Me***
@@ -47,7 +47,6 @@
 - Text
 
 ***2048 Demo:***
-
 ![alt text][2048Gif]
 
 <!-- ==================== Smart Clock ==================== -->
@@ -56,7 +55,6 @@
 - Text
 
 ***Smart Clock Demo:***
-
 ![alt text][SmartClockGif]
 
 <!-- ==================== Dungeon Master ==================== -->
@@ -65,7 +63,6 @@
 - Text
 
 ***Dungeon Master Demo:***
-
 ![alt text][DungeonMasterGif]
 
 *Currently updating: Once this comment is removed, the portfolio will be most up-to-date*
