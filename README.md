@@ -23,7 +23,7 @@
 
 - In 2017, I participated in programing competitions offered at my state college using ```C++```, and this is when I realized something: I ***love*** solving problems! The process of getting a bunch of mini-problems to solve in a small amount of time really resonated with me, and firmly solidified where I want my career to be.
 
-- During Summer 2019, I started to push my Game Dev skills. I decided to code plugins for Minecraft Java, to no one’s surprise using ```Java```. This was not like my past experiences with ```Java``` though, now I was working with ```Maven``` and other recourses to package my work together. Furthermore, I was using the ```Spigot API```, and this was my first experience reading large amounts of technical documentation.
+- During Summer 2019, I started to push my Game Dev skills. I decided to code plugins for Minecraft Java, to no one’s surprise using ```Java```. This was not like my past experiences with ```Java``` though, since I had to work with ```Maven``` and other recourses to package my projects together. Furthermore, I was using the ```Spigot API```, and this was my first experience reading and working with large amounts of technical documentation.
 
 - In 2019, I started at university as a full-time student studying Computer Science *~~(AND Mechanical Engineering)~~*. It was at Uni that I worked more in-depth with ```C```, ```Linux```, and eventually ```Java``` again. I found a new understanding for how to write code that doesn’t just get the job done; but does so quickly, cleanly, and efficiently. I learned that computer science is just math in disguise, but I like math so I’ll take that as a win!
 
