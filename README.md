@@ -51,8 +51,13 @@
 
 <!-- ==================== Smart Clock ==================== -->
 ## **Smart Clock:**
-***July 2016***
-- Text
+***July 2016, One Day Project***
+- After becoming more familiar with ```JavaScript```, I wanted to challenge myself with a time constraint: 12 hours to make whatever I wanted. Knowing college was just a few years away, I decided to make a project inspired by my future university.
+- The initial idea for this clock came from the rings of the Apple fitness tracker, and I thought that was a really interesting and futuristic user interface! I didn’t want to just copy the rings and call it a day, that’d be no fun! I decided to combine another aesthetic: steampunk; which is another personal favorite of mine.
+- after an hour of going back and forth on ideas, it was decided: A futuristic steampunk-esk smart watch screen using growing rings to convey the time, and black and gold for my future university. Now all I had to do was create this wonderful idea in my head from a blank canvas. Oh, and 11 hour left!
+- I started with the layout of the roman numerals, because that with the analog rings is way more steampunk than basic decimal numbers! *(Even though I added a digital clock in the center anyways, best of both worlds I guess).* I then framed out the dividing sections, added the rings, and then some finishing touches.
+- In the end, I got what has to be one of my favorite fringe-projects I have ever created. This was something original, unique, and purely **me**. One day I will find a way to add this design on to the face of my smart watch, and continue this project years after it started.
+
 
 ***Smart Clock Demo:***
 ![alt text][SmartClockGif]
