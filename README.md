@@ -66,7 +66,7 @@
 
 <!-- ==================== Dungeon Master ==================== -->
 ## **Dungeon Master:**
-***January 2020 to Present***
+***January 2020 to April 2020***
 - It finally happened! I found myself with some extra time at Uni, and wanted to take my Indie Game Development hobby further! I started researching everything I’d need to develop games myself and started working. I would soon start testing various different resources to eventually find the combination I would use to develop my very first original game.
 - But first, let me introduce the game in question: Dungeon Master. This game will be a rogue-like dungeon crawler. Players will be able to select starting rolls with various abilities, find and use various spells and artifacts along their journey, and fight their way through the darkest depths of the dungeons.
 - To no one’s surprise, this was a ***very*** ambitious first project, using a bunch of tools and assets I had never used before. Even though I have not yet completed this project, I have learned more than I ever thought I could have. I learned ```C#``` to use in the ```Unity``` game engine, and eventually switched to the open-source ```Godot``` game engine. I explored how to create and implement my own music and art, which I would create using ```Aseprite``` and ```MuseScore```. I developed better project-management skills, file-path and naming conventions, and processes for scheduling/benchmarking my work. 
