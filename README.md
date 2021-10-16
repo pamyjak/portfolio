@@ -9,8 +9,8 @@
 *This repository serves as a living portfolio of my projects. You can use the links below to navigate between sections.*
 
 - [My Journey: About Me](#my-journey)
-- [Snake Game (May 2016)](#snake-game)
-- [2048 Game (June 2016)](#2048)
+- [Snake (May 2016)](#snake-game)
+- [2048 (June 2016)](#2048)
 - [Smart Clock (June 2016)](#smart-clock)
 - [Dungeon Master (January 2020)](#dungeon-master)
 
@@ -30,7 +30,7 @@
 - In 2020, I started exploring Game Development on my own and began working with ```C#``` in ```Unity```; eventually switching to ```Godot```. This was when I decided to start developing my own games as opposed creating clones or modifications to already existing games. While I have not produced a finished game yet *~~(Because my starting project was quite ambitious)~~*, I have strenthened my skills in ```Unity```, ```Godot```, and ```C#```. 
 
 <!-- ==================== Snake Game ==================== -->
-## **Snake Game:**
+## **Snake:**
 ***May 2016***
 - This is my recreation of the infamous Snake Game, as well as one of my first finished projects using ```JavaScript```.
 
@@ -38,7 +38,7 @@
 
 - I learned very quickly how JavaScript differed from the programming languages I was already familiar with, beyond just the syntax. Dynamic typing and just-in-time compilation were confusing at first given my background thus far, but the more I learned of the differences behind the scenes the better my projects got.
 
-***Snake Game Demo:***
+***Snake Demo:***
 ![alt text][SnakeGameGif]
 
 <!-- ==================== 2048 Game ==================== -->
