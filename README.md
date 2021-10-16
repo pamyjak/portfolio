@@ -9,7 +9,7 @@
 *This repository serves as a living portfolio of my projects. You can use the links below to navigate between sections.*
 
 - [My Journey: About Me](#my-journey)
-- [Snake (May 2016)](#snake-game)
+- [Snake (May 2016)](#snake)
 - [2048 (June 2016)](#2048)
 - [Smart Clock (June 2016)](#smart-clock)
 - [Dungeon Master (January 2020)](#dungeon-master)
