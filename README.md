@@ -17,7 +17,7 @@
 <!-- ==================== My Journey ==================== -->
 ## **My Journey:**
 ***About Me***
-- While I was exposed to programming sometime in 2012, my journey didn’t really take off until around 2015. This was when I started learning ```Java``` through my high school FIRST Robotics Team, and later ```C++``` at my state college. I really enjoyed all the programming I was doing, and I didn’t want to stop!
+- While I was exposed to programming sometime in 2012, my journey didn’t really take off until 2015. This was when I started learning ```Java``` through my high school FIRST Robotics Team. I got a lot of hand-on experience coding for robotic applications, and really enjoyed this. I worked on everything from tele-op and autonomous control software, dynamic orientation assist software, and image recognition software. Most of our software work was coded in ```Java``` using ```Eclipse```, Image recognition in ```Python``` and ```WPILib```, and field monitoring/control though ```LabVIEW```. These 4 years of my life really solidified that I wanted to do software development, mainly with robotic applications.
 
 - I started teaching myself ```JavaScript``` in 2016, and to my surprise it was nothing like Java! I enjoyed the challenge of learning a new language, and this is when my passion for Game Development began. I started off by re-creating some well-known and simple games, but eventually would find myself designing games from scratch too *~~(not the language)~~*. 
 
@@ -27,7 +27,9 @@
 
 - In 2019, I started at the University of Central Florida as a full-time student studying Computer Science *~~(AND Mechanical Engineering)~~*. It was at UCF that I worked more in-depth with ```C```, ```Linux```, and eventually ```Java``` again. I found a new understanding for how to write code that doesn’t just get the job done; but does so quickly, cleanly, and efficiently. I learned that computer science is just math in disguise, and I like math so I’ll take that as a win!
 
-- In 2020, I started exploring Game Development on my own and began working with ```C#``` in ```Unity```; eventually switching to ```Godot```. This was when I decided to start developing my own games as opposed creating clones or modifications to already existing games. While I have not produced a finished game yet *~~(Because my starting project was quite ambitious)~~*, I have strenthened my skills in ```Unity```, ```Godot```, and ```C#```. 
+- In 2020, I started exploring Game Development on my own and began working with ```C#``` in ```Unity```; eventually switching to ```Godot```. This was when I decided to start developing my own games as opposed creating clones or modifications to already existing games. While I have not produced a finished game yet *~~(Because my starting project was quite ambitious)~~*, I have strengthened  my skills in ```Unity```, ```Godot```, and ```C#```. 
+
+- In late 2021, I got my first car, which inspired me to develop a mobile application that logs automotive info such as: miles per gallon, maintenance, and service reminders. I started working with ```React Native``` and ```TypeScript```, and began my Full-Stack journey. While I am still in the development phase, I have already learned a lot about ```React Native``` and the use of ```JSX``` as a cascading style-sheet, and so much more. My hope is to continue to develop this app and eventually release it on ```iOS``` and ```Android```.
 
 <!-- ==================== Snake Game ==================== -->
 ## **Snake:**
