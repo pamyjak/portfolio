@@ -1,2 +1,3 @@
 ## **NOTE:**
 - All of the source code for these Minecraft plugins have been extracted from their Maven projects. These are meant to quickly show-off my past work, and not to be a functional product.
+- [UHC](https://github.com/pamyjak/portfolio/edit/main/Minecraft/) is the most rigorous of my Minecraft projects, and has well over 300 hours of research and development time. This was a passion-project of mine to re-create an *"older"* multi-player competative gamemode that I felt was lacking a modern *(in terms of Minecraft)* outlet. I plan to finish this project eventually, but for now it's on hold.
