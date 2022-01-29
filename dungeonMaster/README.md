@@ -1,1 +1,3 @@
-README
+## **NOTE:**
+- Apologies for the frenzy of files here! When I first started working on this project, I had not yet discovered the NESECITY that is version control management...
+- Enjoy poking around the ```C#``` and ```Godot``` scene files!
