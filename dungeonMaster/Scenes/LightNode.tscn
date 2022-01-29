@@ -1,0 +1,13 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Assets/TileSets/LightAlphaLow.png" type="Texture" id=1]
+[ext_resource path="res://Scripts/LightController.cs" type="Script" id=2]
+[ext_resource path="res://Assets/Animations/LightFlickerAnim.tres" type="Animation" id=3]
+
+[node name="Light2D" type="Light2D"]
+texture = ExtResource( 1 )
+script = ExtResource( 2 )
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+autoplay = "LightFlickerAnim"
+anims/LightFlickerAnim = ExtResource( 3 )
