@@ -4,6 +4,12 @@
 [SmartClockGif]: https://github.com/pamyjak/portfolio/blob/main/src/assets/RingClock.gif "Smart Clock Gif"
 [DungeonMasterGif]: https://github.com/pamyjak/portfolio/blob/main/src/assets/DungeonMaster.gif "Dungeon Master Gif"
 
+[McMenu]: https://github.com/pamyjak/portfolio/blob/main/src/assets/Menu.PNG "MC Menu"
+[McInput]: https://github.com/pamyjak/portfolio/blob/main/src/assets/Input.PNG "MC Input"
+[McPrint]: https://github.com/pamyjak/portfolio/blob/main/src/assets/Print.PNG "MC Print"
+[McRREF]: https://github.com/pamyjak/portfolio/blob/main/src/assets/RREF.PNG "MC RREF"
+[McOperations]: https://github.com/pamyjak/portfolio/blob/main/src/assets/Operations.PNG "MC Operations"
+
 <!-- ==================== Headder ==================== -->
 # Projects Portfolio
 *This repository serves as a living portfolio of my projects. You can use the links below to navigate between sections.*
@@ -82,4 +88,18 @@
 ***Dungeon Master Demo:***
 
 ![alt text][DungeonMasterGif]
+
+<!-- ==================== Dungeon Master ==================== -->
+## **Matrix and Linear Algebra Calculator:**
+***August 2021 to November 2021***
+- *Description coming soon*
+
+
+***Matrix Caluclator Demo:***
+
+![alt text][McMenu]
+![alt text][McInput]
+![alt text][McPrint]
+![alt text][McRREF]
+![alt text][McOperations]
 
