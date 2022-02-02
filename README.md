@@ -14,7 +14,7 @@
 - [Smart Clock (June 2016)](#smart-clock)
 - [Minecraft Plugin Sorce Code (May 2019 - Present)](https://github.com/pamyjak/portfolio/tree/main/Minecraft)
 - [Dungeon Master (January 2020 - Present)](#dungeon-master)
-- [Minecraft Plugin Sorce Code (August 2021 - November 2021)](https://github.com/pamyjak/portfolio/tree/main/MatrixCalc)
+- [Matrix and Linear Algebra Calculator (August 2021 - November 2021)](https://github.com/pamyjak/portfolio/tree/main/MatrixCalc)
 - [CarLogger Source Code (November 2021 - Present)](https://github.com/pamyjak/CarLogger)
 
 <!-- ==================== My Journey ==================== -->
