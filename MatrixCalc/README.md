@@ -1,1 +1,3 @@
-README
+## **Note:**
+- [MatrixCalcRREF](https://github.com/pamyjak/portfolio/tree/main/MatrixCalc/MatrixCalcRREF.java) is the main class for this project.
+- A parallel version of this project was also developed to implement Fractions, since there is no native or easy fractions class in Java. My hopes wer e that fractions are lossless with data unlike floating points. There are still some bugs, but the [Fraction](https://github.com/pamyjak/portfolio/tree/main/MatrixCalc/Fraction.java) class does for the mst part work as intended. Eventually, I would like to finish this sub-project and post the Fractions class as open-source
