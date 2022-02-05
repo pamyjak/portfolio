@@ -47,7 +47,7 @@
 
 - I developed this game over a weekend in May 2016 in hopes to build my skills in JavaScript, as well as begin my journey in Game Development.
 
-- I learned very quickly how JavaScript differed from the programming languages I was already familiar with, beyond just the syntax. Dynamic typing and just-in-time compilation were confusing at first given my background thus far, but the more I learned of the differences behind the scenes the better my projects got.
+- I learned very quickly how ```JavaScript``` differed from the programming languages I was already familiar with, beyond just the syntax. Dynamic typing and just-in-time compilation were confusing at first given my background thus far, but the more I learned of the differences behind the scenes the better my projects got.
 
 ***Snake Demo:***
 ![alt text][SnakeGameGif]
@@ -89,10 +89,13 @@
 
 ![alt text][DungeonMasterGif]
 
-<!-- ==================== Dungeon Master ==================== -->
-## **Matrix and Linear Algebra Calculator:**
+<!-- ==================== Matrix and Linear Algebra Calculator ==================== -->
+## **Matrix and Linear Algebra Calculator:** [(Source)](https://github.com/pamyjak/portfolio/tree/main/MatrixCalc)
 ***August 2021 to November 2021***
-- *"Description coming soon"*
+- In Fall 2021, I took a Matrix and Linear Algebra course and found it absolutely fascinating! I spent the entire semester working on creating a program to apply the algorithms and processes I learned in class.
+- By the end of the semester, I had a working program to help me calculate the Reduced Echelon Form, Row-Reduced Echelon Form, Matrix Inversion, and ALU factorization. This project gave me a better understanding of the material in the course, and a fun outlet to apply what I learned.
+- While developing this calculator, I worked on a tangential side-project to resolve an issue I found: compound operations with floating-point numbers really suck! I’d run RREF on a 10x10 matrix and expect a clean result of “10”, and what I get would be “9.87561…”. I looked to see if Java had any form of a Fraction class that I could import to allow me to work with exact numbers. I did not find anything, so I began making my own!
+- I thought making my own Fraction class would be simple - just a simple numerator and denominator. Yeah, it was not that simple. I had to find ways to apply the basic four mathematical operations, reduce fractions, parse fractions from strings with Regex, avoid dividing by 0, compare fractions, and a whole lot of helper methods to make it all happen. While I have a large majority of these features working, I have a few bugs to chase down and some optimizations to be made.
 
 
 ***Matrix Caluclator Demo:***
