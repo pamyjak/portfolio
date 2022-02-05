@@ -41,7 +41,7 @@
 - In late 2021, I got my first car, which inspired me to develop a mobile application that logs automotive info such as: miles per gallon, maintenance, and service reminders. I started working with ```React Native``` and ```TypeScript```, and began my Full-Stack journey. While I am still in the development phase, I have already learned a lot about ```React Native``` and the use of ```JSX``` as a cascading style-sheet, and so much more. My hope is to continue to develop this app and eventually release it on ```iOS``` and ```Android```.
 
 <!-- ==================== Snake Game ==================== -->
-## **Snake:**
+## **Snake:** [(Source)](https://github.com/pamyjak/portfolio/tree/main/snakeGame)
 ***May 2016***
 - This is my recreation of the infamous Snake Game, as well as one of my first finished projects using ```JavaScript```.
 
@@ -53,7 +53,7 @@
 ![alt text][SnakeGameGif]
 
 <!-- ==================== 2048 Game ==================== -->
-## **2048:**
+## **2048:**  [(Source)](https://github.com/pamyjak/portfolio/tree/main/2048Game)
 ***June 2016, Weekend Project***
 - Snake was a fun project, and a good intro to ```JavaScript```, but I wanted something a little more challenging. I have always been a big fan of 2048, and thought this was a perfect game to re-create in ```JavaScript```.
 - Developing this game forced me to calculate collisions, which was a new concept to me at the time. I had never worked with any form of Game Engine ~~yet~~, so I had to teach myself the basics, as well as code them myself in ```JavaScript```.
@@ -63,7 +63,7 @@
 ![alt text][2048Gif]
 
 <!-- ==================== Smart Clock ==================== -->
-## **Smart Clock:**
+## **Smart Clock:**  [(Source)](https://github.com/pamyjak/portfolio/tree/main/smartClock)
 ***July 2016, One Day Project***
 - After becoming more familiar with ```JavaScript```, I wanted to challenge myself with a time constraint: 12 hours to make whatever I wanted. Knowing college was just a few years away, I decided to make a project inspired by my future university.
 - The initial idea for this clock came from the rings of the Apple fitness tracker, and I thought that was a really interesting and futuristic user interface! I didn’t want to just copy the rings and call it a day, that’d be no fun! I decided to combine another aesthetic: steampunk; which is another personal favorite of mine.
@@ -76,7 +76,7 @@
 ![alt text][SmartClockGif]
 
 <!-- ==================== Dungeon Master ==================== -->
-## **Dungeon Master:**
+## **Dungeon Master:** [(Source)](https://github.com/pamyjak/portfolio/tree/main/dungeonMaster)
 ***January 2020 to April 2020***
 - It finally happened! I found myself with *some* extra time at UCF, and wanted to take my Indie Game Development hobby further! I started researching everything I’d need to develop games myself and started working. I would soon start testing various different resources to eventually find the combination I would use to develop my very first original game.
 - But first, let me introduce the game in question: Dungeon Master. This game will be a rogue-like dungeon crawler. Players will be able to select starting roles with various abilities, find and use various spells and artifacts along their journey, and fight their way through the darkest depths of the dungeons.
@@ -98,7 +98,7 @@
 - I thought making my own Fraction class would be simple - just a simple numerator and denominator. Yeah, it was not that simple. I had to find ways to apply the basic four mathematical operations, reduce fractions, parse fractions from strings with Regex, avoid dividing by 0, compare fractions, and a whole lot of helper methods to make it all happen. While I have a large majority of these features working, I have a few bugs to chase down and some optimizations to be made.
 
 
-***Matrix Caluclator Demo:***
+***Matrix Caluclator Demo:*** *(It's a long scroll)*
 
 ![alt text][McMenu]
 ![alt text][McInput]
