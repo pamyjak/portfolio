@@ -4,11 +4,11 @@
 [SmartClockGif]: https://github.com/pamyjak/portfolio/blob/main/src/assets/RingClock.gif "Smart Clock Gif"
 [DungeonMasterGif]: https://github.com/pamyjak/portfolio/blob/main/src/assets/DungeonMaster.gif "Dungeon Master Gif"
 
-[McMenu]: https://github.com/pamyjak/portfolio/blob/main/src/assets/Menu.PNG "MC Menu"
-[McInput]: https://github.com/pamyjak/portfolio/blob/main/src/assets/Input.PNG "MC Input"
-[McPrint]: https://github.com/pamyjak/portfolio/blob/main/src/assets/Print.PNG "MC Print"
-[McRREF]: https://github.com/pamyjak/portfolio/blob/main/src/assets/RREF.PNG "MC RREF"
-[McOperations]: https://github.com/pamyjak/portfolio/blob/main/src/assets/Operations.PNG "MC Operations" 
+[McMenu]: https://github.com/pamyjak/portfolio/blob/main/src/assets/xMenu.PNG "MC Menu"
+[McInput]: https://github.com/pamyjak/portfolio/blob/main/src/assets/xInput.PNG "MC Input"
+[McPrint]: https://github.com/pamyjak/portfolio/blob/main/src/assets/xPrint.PNG "MC Print"
+[McRREF]: https://github.com/pamyjak/portfolio/blob/main/src/assets/xRREF.PNG "MC RREF"
+[McOperations]: https://github.com/pamyjak/portfolio/blob/main/src/assets/xOperations.PNG "MC Operations" 
 
 <!-- ==================== Headder ==================== -->
 # Projects Portfolio
