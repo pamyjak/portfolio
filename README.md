@@ -102,7 +102,7 @@
 - While developing this calculator, I worked on a tangential side-project to resolve an issue I found: compound operations with floating-point numbers really suck! I’d run RREF on a 10x10 matrix and expect a clean result of “10”, and what I get would be “9.87561…”. I looked to see if Java had any form of a Fraction class that I could import to allow me to work with exact numbers. I did not find anything, so I began making my own!
 - I thought making my own Fraction class would be simple - just a simple numerator and denominator. Yeah, it was not that simple. I had to find ways to apply the basic four mathematical operations, reduce fractions, parse fractions from strings with Regex, avoid dividing by 0, compare fractions, and a whole lot of helper methods to make it all happen. While I have a large majority of these features working, I have a few bugs to chase down and some optimizations to be made.
 
-***Matrix Caluclator Demo:*** [(Source)](https://github.com/pamyjak/portfolio/tree/main/MatrixCalc)
+***Matrix Calculator Demo:*** [(Source)](https://github.com/pamyjak/portfolio/tree/main/MatrixCalc)
 
 ![alt text][McMenu]
 ![alt text][McInput]
