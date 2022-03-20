@@ -45,7 +45,7 @@
 
 <!-- ==================== Snake Game ==================== -->
 ## **Snake:**
-***May 2016 | [(Source)](https://github.com/pamyjak/portfolio/tree/main/snakeGame)***
+***May 2016 [(Source)](https://github.com/pamyjak/portfolio/tree/main/snakeGame)***
 - This is my recreation of the infamous Snake Game, as well as one of my first finished projects using ```JavaScript```.
 
 - I developed this game over a weekend in May 2016 in hopes to build my skills in JavaScript, as well as begin my journey in Game Development.
