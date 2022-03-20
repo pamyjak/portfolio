@@ -19,7 +19,7 @@
 - [Snake (May 2016)](#snake)
 - [2048 (June 2016)](#2048)
 - [Smart Clock (June 2016)](#smart-clock)
-- [Minecraft Plugin Sorce Code (May 2019 - Present)](https://github.com/pamyjak/portfolio/tree/main/Minecraft)
+- [Minecraft Plugin Sorce Code (May 2019 - October 2021)](https://github.com/pamyjak/portfolio/tree/main/Minecraft)
 - [Dungeon Master (January 2020 - Present)](#dungeon-master)
 - [Matrix and Linear Algebra Calculator (August 2021 - November 2021)](#matrix-and-linear-algebra-calculator)
 - [CarLogger Source Code (November 2021 - Present)](https://github.com/pamyjak/CarLogger)
@@ -45,14 +45,14 @@
 
 <!-- ==================== Snake Game ==================== -->
 ## **Snake:**
-***May 2016***
+***May 2016 | [(Source)](https://github.com/pamyjak/portfolio/tree/main/snakeGame)***
 - This is my recreation of the infamous Snake Game, as well as one of my first finished projects using ```JavaScript```.
 
 - I developed this game over a weekend in May 2016 in hopes to build my skills in JavaScript, as well as begin my journey in Game Development.
 
 - I learned very quickly how ```JavaScript``` differed from the programming languages I was already familiar with, beyond just the syntax. Dynamic typing and just-in-time compilation were confusing at first given my background thus far, but the more I learned of the differences behind the scenes the better my projects got.
 
-***Snake Demo:*** [(Source)](https://github.com/pamyjak/portfolio/tree/main/snakeGame)
+***Snake Demo:***
 ![alt text][SnakeGameGif]
 
 
